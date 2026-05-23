@@ -93,7 +93,7 @@ The dataset (Retails_data) includes the following fields:
 -Multiple payment methods (UPI, Credit Card, Debit Card, Cash, Net Banking) are captured
 
 # Author
-Meenu vats
+Meenu vats 
 
 GitHub: github.com/meenuvats2002-web
 
